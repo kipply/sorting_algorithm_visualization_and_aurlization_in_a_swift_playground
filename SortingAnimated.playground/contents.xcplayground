@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Home'/>
+        <page name='BubbleSort'/>
+        <page name='MergeSort'/>
+        <page name='QuickSort'/>
+        <page name='InsertionSort'/>
+        <page name='SelectionSort'/>
+        <page name='BogoSort'/>
+        <page name='BitonicSort'/>
+        <page name='CocktailSort'/>
+        <page name='GnomeSort'/>
+        <page name='HeapSort'/>
+    </pages>
+</playground>
