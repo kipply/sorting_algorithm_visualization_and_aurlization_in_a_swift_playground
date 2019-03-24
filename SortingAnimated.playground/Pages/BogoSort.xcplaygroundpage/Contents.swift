@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  ## Bogo Sort
  Bogo Sort is a comically ineffective sort that shuffles the array at random until it is sorted. Worst case complexity is infinite and average is O(N*N!).
 */

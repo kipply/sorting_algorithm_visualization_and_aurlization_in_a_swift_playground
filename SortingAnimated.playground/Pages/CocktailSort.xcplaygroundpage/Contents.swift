@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  # Cocktail Sort
  Cocktail Sort is a variation of the Bubble Sort. Cocktail sort traverses the array in one direction, then again in the other direction, essentially running a bubble sort from both sides.
 */

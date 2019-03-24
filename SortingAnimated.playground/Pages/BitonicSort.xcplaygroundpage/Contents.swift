@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  ## Bitonic Sort
  Bitonic Sort is an parallel, divide-and-conquer sorting algorithm. It uses bitonic sequences (increasing and then decreasing) and then converts that bitonic sequence into a sorted sequence. It is also called a Bitonic Merge Sort, and runs in O(log^2N).
  */

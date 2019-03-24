@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  # Heap Sort
  Heap Sort is an efficient sort based on Binary Trees. It finds the maximum element and then moves it to the end in a similar manner as an Insertion Sort. However, it is optimized with the use of a Binary Tree. Binary Heaps are *Complete Binary Trees* (you may want to look into them elsewhere) and contain data such that each parent node in the tree is larger than both of its' child nodes (max heap, min heap would have smaller parents than children). Heap Sort builds a Max Heap, and then generates the sorted array. The sort runs in O(NlogN). 
 */

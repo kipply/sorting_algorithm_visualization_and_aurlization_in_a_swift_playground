@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  ## Selection Sort
  Selection Sort is a simple sort that finds the smallest value in the array and then moves it to the end of a sorted array. It runs in O(N^2).
  */

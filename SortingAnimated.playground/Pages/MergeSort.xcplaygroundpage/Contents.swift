@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  ## Merge Sort
  Merge sort is a divide-and-conquer algorithm. It divides the array in half, and sorts each half through recursive calls. It always divides the array in two (until there are less than two items) and takes linear time to merge the two sorted arrays. The time complexity of Merge Sort is O(NlogN).
  */

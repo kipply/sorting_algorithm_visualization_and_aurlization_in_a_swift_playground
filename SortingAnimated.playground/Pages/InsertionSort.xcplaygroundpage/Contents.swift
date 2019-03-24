@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  ## Insertion Sort
  Insertion Sort is a simple sort that traverses the array and moves each element to it's correct location in the array, similarly to how one might commonly sort a hand of cards. It runs in O(N^2).
  */

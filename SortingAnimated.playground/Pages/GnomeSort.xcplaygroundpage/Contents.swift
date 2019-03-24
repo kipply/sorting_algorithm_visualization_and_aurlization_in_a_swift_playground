@@ -2,6 +2,7 @@
 import Foundation
 //#-end-hidden-code
 /*:
+ [Back to home](Home)
  # Gnome Sort
  Gnome Sort, unfortunately also known as Stupid Sort, is another basic sort based on the way a gnome might sort his flower pots. It starts similarly to a bubble sort, by traversing the array and performing swaps. However, if a swap is required, Gnome Sort will perform the swap and then step backwards (and it'll step forward if no swap is required. Thus, it runs in one loop with increments and decrements to the index, and only does one pass. It runs in O(N^2).
 */
